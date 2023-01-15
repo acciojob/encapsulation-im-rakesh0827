@@ -1,10 +1,9 @@
 package com.driver;
 public class Main{
     public static void main(String[] args) {
-       RWOnly ojb = new RWOnly();
+       RWOnly obj = new RWOnly();
        obj.setName("Rakesh");
-
-
+       obj.getName();
     }
 
 }
