@@ -4,6 +4,7 @@ public class Main{
         RWOnly obj = new RWOnly();
         obj.setName("Rakesh");
         obj.getName();
+
     }
 
 }
